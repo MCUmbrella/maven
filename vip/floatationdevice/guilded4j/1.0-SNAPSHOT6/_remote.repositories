@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 29 00:04:32 CST 2022
+guilded4j-1.0-SNAPSHOT6.jar>=
+guilded4j-1.0-SNAPSHOT6.pom>=
+guilded4j-1.0-SNAPSHOT6-jar-with-dependencies.jar>=
