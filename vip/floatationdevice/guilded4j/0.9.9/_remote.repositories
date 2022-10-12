@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 12 23:20:48 CST 2022
+guilded4j-0.9.9.jar>=
+guilded4j-0.9.9-jar-with-dependencies.jar>=
+guilded4j-0.9.9.pom>=
